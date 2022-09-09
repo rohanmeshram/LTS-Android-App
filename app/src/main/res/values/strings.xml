@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Local Trade Street</string>
+    <string-array name="categories">
+        <item> </item>
+        <item>Restaurants</item>
+        <item>Doctors</item>
+        <item>Real Estate</item>
+        <item>Loans</item>
+        <item>Travel</item>
+        <item>Repairs</item>
+        <item>Auto Mobiles</item>
+        <item>On Demand Services</item>
+        <item>Wedding</item>
+        <item>Personal Care</item>
+        <item>Jobs</item>
+    </string-array>
+
+    <string-array name="city">
+        <item> </item>
+        <item>Nagpur</item>
+        <item>Pune</item>
+        <item>Raipur</item>
+    </string-array>
+</resources>
+
